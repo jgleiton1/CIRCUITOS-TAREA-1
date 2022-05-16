@@ -46,10 +46,23 @@ Definir y  aplicar las formulas  y conceptos  fundamentales de la ley de Ohm , e
 
 5. Conclusiones 
 
-La ley de  Ohm describe de manera matemática la relación entre voltaje, corriente y resistencia  de un circuito, puesto que explica como el voltaje y la corriente son directamente proporcionales es decir si el voltaje disminuye sucede lo mismo con la corriente, pero se comporta de manera diferente con la resistencia, dado que en este caso la corriente es inversamente proporcional es decir si la resistencia aumenta la corriente disminuye, para lo cual se implementa una formula I= V/R, que permite la solcuín de algunos de los ejercicos resueltos anteriormente.
+- Como conclusión, se tiene que existen dos unidades de medición, las fundamentales que a su vez se van a dividir en siete unidades fundamentales y dos unidades complementarias, por otro lado, existen las unidades derivadas, las cuales son utilizadas por las unidades eléctricas y magnéticas. De igual manera la notacion científica es de suma importancia puesto que va a ayudar a representar numeros muy grandes o muy pequeños para posteriormente poder realizar calculos con estos.
 
-La enegía  no es igual a la corriente, puesto que esta se encarga de  realizar trabajo y la potencia es la razón de cambio a la cual  se utiliza la energía por ello se  conoce la siguiente formula P=W/t , del mismo modo se presentan una variedad de formulas que permiten resolver los ejercios planteados, sin embargo se necesita del conocimiento de los conceptos generales para saber que formula se debe aplicar . 
+- También se tiene se tiene que la notación de ingeniería es importante en los campos técnicos, específicamente en electrónica se usa para representar valores de voltaje, corriente, potencia, resistencia, entre otros. Esta está relacionada con los prefijos métricos que son usados exclusivamente con números que tienen una unidad de medida como volts o amperes, como ejemplos de prefijos se tiene mili, kilo, mega, entre otros. Convertir unidades es fundamental puesto que muchas veces es necesario convertir la cantidad de una unidad que tiene un prefijo métrico a otra.
+
+- Un circuito necesita tener al menos una resistencia para que no se genere un cortocircuito, y el código de colores es clave para saber que resistor agregar al circuito según la fuente de voltaje.
+Al utilizar un instrumento de medición se debe tener un previo conocimiento de cómo se debe conectar al circuito para saber una medida en particular y para el cuidado del dispositivo se debe tener en cuenta la cantidad de voltaje que aguanta para no dañar el equipo.
+
+- Al realizar trabajos con circuitos es necesario conocer las medidas de seguridad para no ocasionar daños al entorno y a la persona misma como un ejemplo es la conexión tierra en tierra es necesaria para dispersar el exceso de voltaje que pudiera haber.
+
+- Se llegó a la conclusión que la relación de voltaje, corriente y resistencia es bastante útil ya que si se emplea adecuadamente los conocimientos teóricos en este caso la ley de Ohm se puede dar solución a los requerimientos que se tengan, esto sirve para corroborar la importancia y la utilidad que una fuente variable tiene en la mayoría de los circuitos eléctricos.
 
 6. Bibliografía
 
-Floyd, T.(2007). /Principio de Circuitos Eléctricos/. Pearson, Prentice Hall
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+7. Rubrica
+
+![image](https://user-images.githubusercontent.com/94011974/168502638-68a88253-237f-494b-b87f-72ae3914cb18.png)
+
+
