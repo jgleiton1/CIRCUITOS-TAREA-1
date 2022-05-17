@@ -4,15 +4,15 @@
 
   1.1. Objetivo General 
 
-Definir y  aplicar las formulas  y conceptos  fundamentales de la ley de Ohm , energí y potencia para poder resolver los problemas propuestos en cada capitulo , mediante el analisis y aplicación del conocimiento  sobre los temas que se ha profundizado. 
+Investigar sobre "Cantidades y Unidades" y "Voltaje corriente y resistencia", mediante el libro establecido en hora de clase "Principios de circuitos  electricos de Floyd" para lograr una mejor comprension de la materia durante el periodo de mayo a septiembre del 2022. 
 
   1.2. Objetivos Específicos 
 
-- Realizar el respectivo análisis de las definiciones tanto de la ley de Ohm como de energía y potencia .  
+- Realizar mapas conceptuales mediante la informacion de los capitulos establecidos por tarea para lograr resumir de mejor manera y tener los conceptos claros.  
 
-- Identificar las formulas que se pueden utilizar en el trabajo.  
+- Desarrollar los ejercicios establecidos por capitulo (pares), con esto lograr aplicar lo comprendido y resumido en los mapas conceptuales anteriores para solventar dudas y tener una informacion mas amplia.  
 
-- Analizar correctamente cada problema para obtener la solución correcta. 
+- Desarrollar un video que contenga cuatro ejercicios y la explicacion del marco teorico con esto demostrar el trabajo aplicado en el informe para el conocimiento del docente.
 
 2. Marco teórico
 
