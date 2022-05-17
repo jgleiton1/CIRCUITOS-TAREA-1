@@ -38,11 +38,11 @@ Capitulo 2
 
 ![Untitled Diagram (10)](https://user-images.githubusercontent.com/94011974/168868866-69fbf765-b254-4de7-871c-813b5a42e93d.jpg)
 
-![image](https://user-images.githubusercontent.com/94011974/168502403-bdc8a91e-8ac7-46ee-93c2-02422e394f67.png)
+![Untitled Diagram (11)](https://user-images.githubusercontent.com/94011974/168913968-52a53c8a-0926-4c74-88eb-8a5b3fc0aa82.jpg)
 
-![image](https://user-images.githubusercontent.com/94011974/168502417-768b02f1-5560-466f-818e-da02e017ef5f.png)
+![Untitled Diagram (12)](https://user-images.githubusercontent.com/94011974/168913990-e8af37f6-009e-4bf6-afaa-e04aa1873a35.jpg)
 
-![image](https://user-images.githubusercontent.com/94011974/168502422-baa658fb-fe70-49c3-973b-5ada4739ed48.png)
+![Untitled Diagram (13)](https://user-images.githubusercontent.com/94011974/168914015-fb96ce26-9b2f-44c5-bab2-5f8b87e271c9.jpg)
 
 3. Explicación y  Resolución de  ejercicios o problemas
 
