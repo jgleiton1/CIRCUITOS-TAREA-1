@@ -502,7 +502,7 @@ Se los colocaría de forma paralela
 
 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
-48.999 recuentos de resolución
+19.999 recuentos de resolución
 
 4. Video
 
