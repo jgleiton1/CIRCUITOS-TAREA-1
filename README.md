@@ -36,7 +36,7 @@ Capitulo 2
 
 ![image](https://user-images.githubusercontent.com/94011974/168502381-e1b58f6e-8e73-4dec-b705-52c55ad3d132.png)
 
-![image](https://user-images.githubusercontent.com/94011974/168502395-dd72ede5-83bf-4e4d-b033-cd2e84b9fb4f.png)
+![Untitled Diagram (10)](https://user-images.githubusercontent.com/94011974/168868866-69fbf765-b254-4de7-871c-813b5a42e93d.jpg)
 
 ![image](https://user-images.githubusercontent.com/94011974/168502403-bdc8a91e-8ac7-46ee-93c2-02422e394f67.png)
 
