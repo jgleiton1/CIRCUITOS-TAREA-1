@@ -16,13 +16,17 @@ Investigar sobre "Cantidades y Unidades" y "Voltaje corriente y resistencia", me
 
 2. Marco teórico
 
-![image](https://user-images.githubusercontent.com/94011974/168502319-0e80e57f-d6e2-4aa6-9cef-f81610ce2a1e.png)
+Capitulo 1
 
-![image](https://user-images.githubusercontent.com/94011974/168502332-374d58d2-1878-42ff-b484-ae588cc19a48.png)
+![Untitled Diagram (6)](https://user-images.githubusercontent.com/94011974/168860397-b46e77ae-dc7c-4c4c-bf9b-1b41e047e8b1.jpg)
 
-![image](https://user-images.githubusercontent.com/94011974/168502340-74e58510-58af-4beb-b8ff-f5de7dd8b40a.png)
+![Untitled Diagram (7)](https://user-images.githubusercontent.com/94011974/168860430-1c47b028-78c4-4f0e-9424-07b91ac7fb8c.jpg)
 
-![image](https://user-images.githubusercontent.com/94011974/168502347-a9081c71-b68f-4893-aad0-3c3fa8722835.png)
+![Untitled Diagram (8)](https://user-images.githubusercontent.com/94011974/168860459-18577f49-335b-4272-bc47-4ba492093b39.jpg)
+
+![Untitled Diagram (9)](https://user-images.githubusercontent.com/94011974/168860544-50a29efd-581e-4979-9740-eabc19a0b04c.jpg)
+
+Capitulo 2
 
 ![image](https://user-images.githubusercontent.com/94011974/168502353-48764c4e-8325-4658-aac9-71ba45509e82.png)
 
