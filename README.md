@@ -506,7 +506,7 @@ Se los colocaría de forma paralela
 
 4. Video
 
-
+https://www.youtube.com/watch?v=atrFH1qtFfw
 
 5. Conclusiones 
 
