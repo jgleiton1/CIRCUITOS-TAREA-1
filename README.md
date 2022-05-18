@@ -534,7 +534,7 @@ Se los colocaría de forma paralela
 
 4. Video
 
-https://www.youtube.com/watch?v=atrFH1qtFfw
+https://www.youtube.com/watch?v=1IcRJDOKh0g
 
 5. Conclusiones 
 
