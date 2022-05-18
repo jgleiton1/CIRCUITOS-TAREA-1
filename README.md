@@ -18,29 +18,53 @@ Investigar sobre "Cantidades y Unidades" y "Voltaje corriente y resistencia", me
 
 Capitulo 1
 
+1-1 Unidades de medición
+
 ![Untitled Diagram (6)](https://user-images.githubusercontent.com/94011974/168860397-b46e77ae-dc7c-4c4c-bf9b-1b41e047e8b1.jpg)
+
+1-2 Notación científica 
 
 ![Untitled Diagram (7)](https://user-images.githubusercontent.com/94011974/168860430-1c47b028-78c4-4f0e-9424-07b91ac7fb8c.jpg)
 
+1-3 Notación de ingeniería y prefijos métricos
+
 ![Untitled Diagram (8)](https://user-images.githubusercontent.com/94011974/168860459-18577f49-335b-4272-bc47-4ba492093b39.jpg)
+
+1-4 Conversiones de unidades métricas
 
 ![Untitled Diagram (9)](https://user-images.githubusercontent.com/94011974/168860544-50a29efd-581e-4979-9740-eabc19a0b04c.jpg)
 
 Capitulo 2
 
+2–1 Estructura atómica
+
 ![image](https://user-images.githubusercontent.com/94011974/168502353-48764c4e-8325-4658-aac9-71ba45509e82.png)
+
+2–2 Carga eléctrica
 
 ![image](https://user-images.githubusercontent.com/94011974/168502360-909a9b69-a99f-43f2-9234-4a54eccf8c56.png)
 
+2–3 Voltaje, corriente y resistencia
+
 ![image](https://user-images.githubusercontent.com/94011974/168502367-61fc8fb4-9e31-4cd4-bab4-b3eaf3dc3263.png)
+
+2–4 Fuentes de voltaje y de corriente
 
 ![image](https://user-images.githubusercontent.com/94011974/168502381-e1b58f6e-8e73-4dec-b705-52c55ad3d132.png)
 
+2–5 Resistores
+
 ![Untitled Diagram (10)](https://user-images.githubusercontent.com/94011974/168868866-69fbf765-b254-4de7-871c-813b5a42e93d.jpg)
+
+2–6 El circuito eléctrico
 
 ![Untitled Diagram (11)](https://user-images.githubusercontent.com/94011974/168913968-52a53c8a-0926-4c74-88eb-8a5b3fc0aa82.jpg)
 
+2–7 Mediciones de circuito básicas
+
 ![Untitled Diagram (12)](https://user-images.githubusercontent.com/94011974/168913990-e8af37f6-009e-4bf6-afaa-e04aa1873a35.jpg)
+
+2–8 Seguridad eléctrica, una aplicación de circuito
 
 ![Untitled Diagram (13)](https://user-images.githubusercontent.com/94011974/168914015-fb96ce26-9b2f-44c5-bab2-5f8b87e271c9.jpg)
 
